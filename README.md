@@ -26,11 +26,12 @@
 
 <p align="center">
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px>  </picture> Languages:
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px>  </picture> Languages
 <p align="center">
-    ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![R](https://img.shields.io/badge/R-CC342D?style=for-the-badge&logo=R&logoColor=white)
+   
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-CC342D?style=for-the-badge&logo=R&logoColor=white)
 </p>
 <br>   
     
