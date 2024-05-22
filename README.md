@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Eugene Hong </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eugene+Hong;++;Full-Stack+Developer,;Data+Science+Major,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."> </a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eugene+Hong;Full-Stack+Developer,;Data+Science+Major,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."> </a>
 </p>
 <br>
 	
@@ -13,11 +13,11 @@
 
 - A passionate Full-Stack developer
 - Majored in Data Science
-- Currently learning Information Retrieval by Self
+- Currently learning Information Retrieval by Self.
 - Personal website [link](https://versmalune.wordpress.com)
 - I’m currently open for an Intern or a new job opportunity.
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
