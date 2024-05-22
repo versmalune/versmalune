@@ -28,9 +28,9 @@
 
 - **Languages**:
 
-    ![Java](https://img.shields.io/badge/java-007396?style=for-the-badg&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![R](https://img.shields.io/badge/R-CC342D?style=for-the-badg&logo=R&logoColor=white)
+    ![R](https://img.shields.io/badge/R-CC342D?style=for-the-badge&logo=R&logoColor=white)
 
 <br>   
     
