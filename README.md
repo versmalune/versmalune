@@ -26,6 +26,7 @@
 
 <p align="center">
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px>  </picture>
 - **Languages**:
 
     ![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
